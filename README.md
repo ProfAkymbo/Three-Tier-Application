@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Three-Tier Application Deployment using Docker Compose
 
 
@@ -80,3 +81,7 @@ npm install -g pm2
 pm2 start npm --name backend -- start
 ```
 Frontend Modify the .env file and update the backend api endpoint
+=======
+# Three-Tier-Application
+This repository showcases the deployment of a three-tier application using Docker Compose. The application consists of a MySQL database, a Node.js backend, and a React.js frontend.
+>>>>>>> f947420c2cc9ccdd64bb60a57a78cd0e04398613
